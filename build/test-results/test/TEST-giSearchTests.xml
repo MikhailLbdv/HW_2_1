@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="giSearchTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-24T22:13:07" hostname="cab-wsm-0073115" time="0.013">
+<testsuite name="giSearchTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-26T20:09:09" hostname="cab-wsm-0073115" time="0.015">
   <properties/>
-  <testcase name="successfulSearchTest()" classname="giSearchTests" time="0.013"/>
+  <testcase name="successfulSearchTest()" classname="giSearchTests" time="0.015"/>
   <system-out><![CDATA[test  test  test  test  test  test  test  test  test  test  test  test  test  test  test    ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
