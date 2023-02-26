@@ -7,7 +7,7 @@ import static com.codeborne.selenide.Selenide.open;
 class giSearchTests {
     @Test
     void successfulSearchTest() {
-[git]
+System.out.print("merge conflict ");
 //        open("https://www.google.com/");
 //        $("[name=q]").setValue("selenide").pressEnter();
 //        $("[id=search]").shouldHave(text("https://ru.selenide.org"));
